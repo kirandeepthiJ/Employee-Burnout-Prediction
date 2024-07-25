@@ -28,51 +28,28 @@ pip install -r requirements.txt
 
 ## Usage
 
-Prepare the Data
+### Prepare the Data
 
 Place your dataset in the data/ directory and ensure it follows the expected format.
 
-Run the Model
+### Run the Model
 
 Execute the following command to train and evaluate the model:
-
-bash
-Copy code
 python main.py
-View Results
+
+### View Results
 
 Results will be saved in the results/ directory. Check results/ for model performance metrics and visualizations.
 
-Project Structure
-data/: Directory containing the dataset.
-scripts/: Contains Python scripts for data processing, model training, and evaluation.
-notebooks/: Jupyter notebooks for exploratory data analysis (EDA).
-results/: Output directory for model results and visualizations.
-requirements.txt: List of Python dependencies.
-Contributing
-Fork the Repository
-
-Create a Feature Branch
-
-bash
-Copy code
-git checkout -b feature/your-feature
-Commit Your Changes
-
-bash
-Copy code
-git commit -am 'Add new feature'
-Push to the Branch
-
-bash
-Copy code
-git push origin feature/your-feature
-Create a Pull Request
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgements
-[Dataset Source](link to dataset source)
-[Libraries Used](e.g., scikit-learn, pandas)
-
+## Project Structure
+### data/: 
+    Directory containing the dataset.
+### scripts/:
+    Contains Python scripts for data processing, model training, and evaluation.
+### notebooks/: 
+    Jupyter notebooks for exploratory data analysis (EDA).
+### results/: 
+    Output directory for model results and visualizations.
+### requirements.txt:
+    List of Python dependencies.
+    
