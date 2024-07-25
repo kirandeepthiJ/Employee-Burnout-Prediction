@@ -42,7 +42,7 @@ Results will be saved in the results/ directory. Check results/ for model perfor
 
 ### employee_burnout_analysis-AI (1).xlsx: 
     Directory containing the dataset.
-### notebooks/: 
+### Employee_Burnout.ipynb: 
         Contains Python scripts for data processing, model training, and evaluation. Jupyter notebook for exploratory data analysis (EDA).
 ### results/: 
     Output directory for model results and visualizations.
