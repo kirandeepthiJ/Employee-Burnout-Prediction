@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 ### Prepare the Data
 
-Place your dataset in the data/ directory and ensure it follows the expected format.
+Place your dataset in the employee_burnout_analysis-AI (1).xlsx directory and ensure it follows the expected format.
 
 ### Run the Model
 
@@ -39,7 +39,8 @@ python main.py
 Results will be saved in the results/ directory. Check results/ for model performance metrics and visualizations.
 
 ## Project Structure
-### data/: 
+
+### employee_burnout_analysis-AI (1).xlsx: 
     Directory containing the dataset.
 ### scripts/:
     Contains Python scripts for data processing, model training, and evaluation.
