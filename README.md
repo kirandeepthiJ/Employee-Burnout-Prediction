@@ -18,7 +18,7 @@ The Employee Burnout Prediction project aims to predict employee burnout levels 
 ## Installation
 
 ### Clone the Repository
-git clone https://github.com/your-username/employee-burnout-prediction.git
+git clone https://github.com/your-kirandeepthiJ/employee-burnout-prediction.git
 cd employee-burnout-prediction
 
 ### Install Dependencies
