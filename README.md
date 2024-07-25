@@ -17,13 +17,10 @@ The Employee Burnout Prediction project aims to predict employee burnout levels 
      
 ## Installation
 
-### Clone the Repository
-git clone https://github.com/your-kirandeepthiJ/employee-burnout-prediction.git
-cd employee-burnout-prediction
-
 ### Install Dependencies
 
 Make sure you have pip installed. Then run:
+
 pip install -r requirements.txt
 
 ## Usage
